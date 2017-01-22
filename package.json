@@ -1,0 +1,29 @@
+{
+  "name": "bot-congnitive",
+  "version": "1.0.0",
+  "description": "bot for skype,slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshitsilly/bot-congnitive.git"
+  },
+  "keywords": [
+    "bot",
+    "deepl",
+    "learning",
+    "RL"
+  ],
+  "author": "harshit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshitsilly/bot-congnitive/issues"
+  },
+  "homepage": "https://github.com/harshitsilly/bot-congnitive#readme",
+  "dependencies": {
+    "botbuilder": "^3.5.3",
+    "restify": "^4.3.0"
+  }
+}
